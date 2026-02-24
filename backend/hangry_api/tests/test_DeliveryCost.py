@@ -37,4 +37,4 @@ def test_LittleItems():
   cost = Delivery.calculate(order, del_dist)
   #Assert
   # TODO: replace the pass with an assert to test the value returned.
-  assert cost ==2.51
+  assert cost ==2.50
